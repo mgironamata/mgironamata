@@ -1,7 +1,7 @@
 ## Marc Girona-Mata
 
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/mgironamata?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/gironamata)
+[![Twitter Badge](https://img.shields.io/twitter/gironamata?style=social)](https://twitter.com/gironamata)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=vifR7DgAAAAJ)
 <!-- [![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu) -->
 <!-- [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/QiushengWu) -->
