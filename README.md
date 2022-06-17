@@ -1,6 +1,6 @@
 ## Marc Girona-Mata
 
-[![GitHub Badge](https://img.shields.io/github/follow/giswqs?style=social)](https://github.com/mgironamata?tab=followers)
+<!-- [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/mgironamata?tab=followers) -->
 <!-- [![Twitter Badge](https://img.shields.io/twitter/gironamata?style=social)](https://twitter.com/gironamata) -->
 [![Twitter Badge](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gironamata)](https://twitter.com/gironamata)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=vifR7DgAAAAJ)
@@ -32,17 +32,17 @@ Marc holds an MRes in [Environmental Data Science](https://ai4er-cdt.esc.cam.ac.
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
+<!-- - [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
 - [A streamlit app for creating timelapse of annual Landsat imagery &lpar;1984-2021&rpar;](https://blog.gishub.org/a-streamlit-app-for-creating-timelapse-of-annual-landsat-imagery-1984-2021)
 - [The ArcGIS Toolbox for WhiteboxTools v2.0 released](https://blog.gishub.org/the-arcgis-toolbox-for-whiteboxtools-v20-released)
 - [GEE and geemap workshop at GeoPython Conference](https://blog.gishub.org/gee-and-geemap-workshop-at-geopython-conference)
 - [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
 HASHNODE:END -->
 
----
+<!-- ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex) --> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
 
