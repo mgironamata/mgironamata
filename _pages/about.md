@@ -13,13 +13,15 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD student at the [Computational and Biological Learning Lab](https://cbl-website.onrender.com/) (University of Cambridge) and the [British Antarctic Survey](https://www.bas.ac.uk/). My research interests include probabilistic modelling for environmental and climate sciences. I am currently working on improving precipitation and river flow predictions in data-scarce mountain regions, such as the Himalayas, and exploring how this translates into actionable information for better decision making. 
 
-My background is in engineering, hydrology, and data science. I hold an MRes in [Environmental Data Science](https://ai4er-cdt.esc.cam.ac.uk/) from the University of Cambridge, an MSc in [Hydrology and Water Resources Management](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-hydrology-and-water-resources-management/) from Imperial College London, and an MEng in [Civil Engineering](https://www.upc.edu/en/masters/civil-engineering) from the Polytechnic University of Catalonia (BarcelonaTECH).
+My background is in civil engineering, hydrology, and environmental data science. 
+
+<!-- I hold an MRes in [Environmental Data Science](https://ai4er-cdt.esc.cam.ac.uk/) from the University of Cambridge, an MSc in [Hydrology and Water Resources Management](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-hydrology-and-water-resources-management/) from Imperial College London, and an MEng in [Civil Engineering](https://www.upc.edu/en/masters/civil-engineering) from the Polytechnic University of Catalonia (BarcelonaTECH). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
