@@ -60,13 +60,13 @@ gitlab_username: # your GitLab user name
 twitter_username: gironamata # your Twitter handle
 linkedin_username: marc-girona-mata # your LinkedIn user name
 scholar_userid: vifR7DgAAAAJ # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-7773-0333 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.bas.ac.uk # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
