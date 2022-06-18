@@ -21,7 +21,7 @@ I am a PhD student at the [British Antarctic Survey](https://www.bas.ac.uk/) and
 
 My research interests include probabilistic modelling for environmental and climate sciences. I am currently working on improving precipitation and river flow predictions in data-scarce mountain regions, such as the Himalayas, and exploring how this translates into actionable information for better decision making. 
 
-My background is in [civil engineering](https://www.upc.edu/en/masters/civil-engineering) (MEng, Polytechnic University of Catalonia), [hydrology](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-hydrology-and-water-resources-management/)  (MSc, Imperial College London), and [environmental data science](https://ai4er-cdt.esc.cam.ac.uk/) (MRes, University of Cambridge).
+My background is in [civil engineering](https://www.upc.edu/en/masters/civil-engineering), [hydrology](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-hydrology-and-water-resources-management/) and [environmental data science](https://ai4er-cdt.esc.cam.ac.uk/).
 
 <!-- I hold an MRes in [Environmental Data Science](https://ai4er-cdt.esc.cam.ac.uk/) from the University of Cambridge, an MSc in [Hydrology and Water Resources Management](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-hydrology-and-water-resources-management/) from Imperial College London, and an MEng in [Civil Engineering](https://www.upc.edu/en/masters/civil-engineering) from the Polytechnic University of Catalonia (BarcelonaTECH). -->
 
